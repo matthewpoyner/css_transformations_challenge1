@@ -1,0 +1,9 @@
+img {
+	margin: 50px;
+	transition: transform ease-in 1s; /*transform must be placed here */
+}
+
+img:hover{
+    transform:scale(2);
+    
+}
